@@ -1,0 +1,20 @@
+.navbar( background-colour:#141022 )
+.nav-link, .nav-brand { 
+  color: #c0fefc
+  cursor: pointer
+
+}
+.nav-link(
+  margin-right : 2em;
+) 
+.navbar-brand{ margin-right: 
+  : 1em
+}
+.navbar-toggler{
+  background-color: red
+ margin-right:3%
+}
+.navbar-collaose: 1em;
+.bg{
+  height:100% ;}
+  
